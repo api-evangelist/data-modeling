@@ -1,0 +1,74 @@
+name: Data Modeling Vocabulary
+description: >-
+  Vocabulary of data modeling concepts spanning conceptual, logical, and
+  physical models, plus dimensional, relational, graph, and Data Vault
+  methodologies.
+terms:
+  - term: Conceptual Data Model
+    definition: >-
+      A high-level, technology-agnostic view of entities and their
+      relationships used to communicate with business stakeholders.
+  - term: Logical Data Model
+    definition: >-
+      A platform-independent model that adds attributes, keys, and full
+      relationship cardinalities to a conceptual model.
+  - term: Physical Data Model
+    definition: >-
+      An implementation-specific model that includes tables, columns,
+      data types, indexes, and partitioning for a target database.
+  - term: Entity-Relationship Diagram
+    definition: >-
+      A diagram of entities, attributes, and relationships, often using
+      Chen, Crow's Foot, or IDEF1X notation.
+  - term: Cardinality
+    definition: >-
+      The numeric relationship between two entities expressed as one-to-one,
+      one-to-many, or many-to-many.
+  - term: Primary Key
+    definition: >-
+      An attribute or set of attributes that uniquely identifies a row
+      within an entity or table.
+  - term: Foreign Key
+    definition: >-
+      An attribute that references the primary key of another entity to
+      establish a relationship.
+  - term: Surrogate Key
+    definition: >-
+      A system-generated identifier used in place of natural business
+      keys, common in dimensional and Data Vault models.
+  - term: Normalization
+    definition: >-
+      The process of structuring relations to reduce redundancy and
+      improve integrity, typically up to third normal form.
+  - term: Denormalization
+    definition: >-
+      The deliberate introduction of redundancy for query performance,
+      common in analytical and reporting models.
+  - term: Dimensional Model
+    definition: >-
+      An analytical schema using fact and dimension tables, popularized
+      by the Kimball methodology.
+  - term: Data Vault
+    definition: >-
+      A modeling approach using hubs, links, and satellites to capture
+      raw historical data with auditability.
+  - term: Anchor Modeling
+    definition: >-
+      A 6NF-style approach using anchors, attributes, ties, and knots
+      designed for temporal data.
+  - term: Graph Data Model
+    definition: >-
+      A model expressed as nodes and edges with properties, suitable for
+      property graph and RDF databases.
+  - term: Document Data Model
+    definition: >-
+      A model that stores data as nested documents in formats like JSON
+      or BSON.
+  - term: Schema-on-Read
+    definition: >-
+      A pattern where structure is applied at query time rather than at
+      ingestion, common in data lakes.
+  - term: Schema-on-Write
+    definition: >-
+      A pattern where structure is enforced at ingestion time, typical
+      of relational databases.
