@@ -7,8 +7,7 @@ description: >-
   physical models across relational, dimensional, NoSQL, graph, and data
   vault paradigms, supported by standards and tools from the OMG, DAMA,
   Erwin, PowerDesigner, dbt, and modern data modeling platforms.
-type: Topic
-xType: topic
+kind: topic
 position: Consumer
 access: 3rd-Party
 image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
