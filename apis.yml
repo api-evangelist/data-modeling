@@ -30,35 +30,35 @@ common:
     description: Wikipedia article on data modeling.
   - url: https://www.dama.org/cpages/body-of-knowledge
     name: DAMA-DMBOK
-    type: Standard
+    type: Standards
     description: DAMA Data Management Body of Knowledge covering data modeling.
   - url: https://www.omg.org/spec/IDEF1X/
     name: IDEF1X
-    type: Standard
+    type: Standards
     description: OMG IDEF1X standard for entity-relationship modeling.
   - url: https://www.omg.org/spec/UML/
     name: UML
-    type: Standard
+    type: Standards
     description: OMG Unified Modeling Language including class and data model diagrams.
   - url: https://www.iso.org/standard/60341.html
     name: ISO/IEC 19505 (UML)
-    type: Standard
+    type: Standards
     description: International standard for UML.
   - url: https://erwin.com/
     name: erwin Data Modeler
-    type: Tool
+    type: Tools
     description: Long-standing enterprise data modeling tool.
   - url: https://www.sap.com/products/technology-platform/powerdesigner-data-modeling-tools.html
     name: SAP PowerDesigner
-    type: Tool
+    type: Tools
     description: Enterprise data and enterprise architecture modeling tool.
   - url: https://www.idera.com/er-studio-data-architect-software/
     name: ER/Studio
-    type: Tool
+    type: Tools
     description: Data architecture and modeling tool from Idera.
   - url: https://dbdiagram.io/
     name: dbdiagram.io
-    type: Tool
+    type: Tools
     description: Web-based ERD tool with DBML language support.
   - url: https://www.dbml.org/
     name: DBML
@@ -66,7 +66,7 @@ common:
     description: Database Markup Language for defining schemas as code.
   - url: https://getdbt.com/
     name: dbt
-    type: Tool
+    type: Tools
     description: Modern data modeling and transformation tool for the warehouse.
   - url: https://www.kimballgroup.com/
     name: Kimball Group
