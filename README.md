@@ -1,4 +1,4 @@
-# Data Modeling (data-modeling)
+# data-modeling
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,56 +64,22 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Data Modeling is the discipline of designing structured representations of data to organize information, define relationships, and govern how data is stored, accessed, and managed. It spans conceptual, logical, and physical models across relational, dimensional, NoSQL, graph, and data vault paradigms, supported by standards and tools from the OMG, DAMA, Erwin, PowerDesigner, dbt, and modern data modeling platforms.
+## data-modeling on APIs.io
 
-**URL:** [Visit APIs.json URL](https://raw.githubusercontent.com/api-evangelist/data-modeling/refs/heads/main/apis.yml)
+Everything profiled for data-modeling is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/data-modeling/](https://apis.io/providers/data-modeling/)** — or go straight to one of the APIs or properties below.
 
-## Scope
+## API Evangelist rating
 
-- **Type:** Topic
-- **Position:** Consumer
-- **Access:** 3rd-Party
+Not yet rated. See [apis.io/providers/data-modeling/](https://apis.io/providers/data-modeling/).
 
-## Tags
+## How this profile is made
 
-- Data Architecture
-- Data Engineering
-- Data Modeling
-- Database Design
-- Schema Design
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
 
-## Timestamps
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for data-modeling: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
 
-- **Created:** 2025-01-01
-- **Modified:** 2026-04-30
+## Open an issue
 
-## Common Resources
-
-### Standards & References
-
-- [Wikipedia](https://en.wikipedia.org/wiki/Data_modeling)
-- [DAMA-DMBOK](https://www.dama.org/cpages/body-of-knowledge)
-- [IDEF1X](https://www.omg.org/spec/IDEF1X/)
-- [UML](https://www.omg.org/spec/UML/)
-- [ISO/IEC 19505 (UML)](https://www.iso.org/standard/60341.html)
-- [Kimball Group](https://www.kimballgroup.com/)
-- [Data Vault Alliance](https://datavaultalliance.com/)
-
-### Tools
-
-- [erwin Data Modeler](https://erwin.com/)
-- [SAP PowerDesigner](https://www.sap.com/products/technology-platform/powerdesigner-data-modeling-tools.html)
-- [ER/Studio](https://www.idera.com/er-studio-data-architect-software/)
-- [dbdiagram.io](https://dbdiagram.io/)
-- [DBML](https://www.dbml.org/)
-- [dbt](https://getdbt.com/)
-
-### Reference
-
-- [Vocabulary](vocabulary/data-modeling-vocabulary.yml)
-
-## Maintainers
-
-**FN:** Kin Lane
-
-**Email:** kin@apievangelist.com
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/data-modeling/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
